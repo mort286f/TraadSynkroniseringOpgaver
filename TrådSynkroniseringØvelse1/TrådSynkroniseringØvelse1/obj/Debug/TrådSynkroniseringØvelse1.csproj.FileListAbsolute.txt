@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\bin\Debug\TrådSynkroniseringØvelse1.exe.config
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\bin\Debug\TrådSynkroniseringØvelse1.exe
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\bin\Debug\TrådSynkroniseringØvelse1.pdb
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\obj\Debug\TrådSynkroniseringØvelse1.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\obj\Debug\TrådSynkroniseringØvelse1.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\obj\Debug\TrådSynkroniseringØvelse1.exe
+C:\Users\mort286f\source\repos\TrådSynkroniseringØvelse1\TrådSynkroniseringØvelse1\obj\Debug\TrådSynkroniseringØvelse1.pdb
